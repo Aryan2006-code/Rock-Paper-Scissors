@@ -37,7 +37,7 @@ Play against the computer and see if you can win! 🪨📄✂️
   
   ```bash
    git clone https://github.com/Aryan2006-code/Rock-Paper-Scissors.git
-
+```
 2. Open index.html in your browser.
 3. Play the game and enjoy 🎉
 
