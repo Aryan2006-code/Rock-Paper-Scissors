@@ -28,13 +28,14 @@ Play against the computer and see if you can win! 🪨📄✂️
 ---
 
 ## Video Demo
-(gamePlay.mp4)  
+![Game video](gamePlay.mp4) 
 
 ---
 
 ## 🛠️ How to Run
 1. Clone the repository:
   
+  ```bash
    git clone https://github.com/Aryan2006-code/Rock-Paper-Scissors.git
 
 2. Open index.html in your browser.
